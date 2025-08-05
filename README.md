@@ -8,7 +8,7 @@ The goal of this project is to demonstrate practical data analysis and visualiza
 
 ## Key Visuals Explained
 
-**Excecutive Dashboard**
+### Excecutive Dashboard
 
 Total Sales, Quantity Sold, Number of Products, Avg. Price, KPI Indicators, Revenue Trends, Orders by Categories
 
@@ -17,7 +17,7 @@ Total Sales, Quantity Sold, Number of Products, Avg. Price, KPI Indicators, Reve
 <img width="1917" height="1044" alt="Exe Dashboard" src="https://github.com/user-attachments/assets/939f5754-ed5d-4ddd-9dbc-a66ec8c92495" />
 
 
-**Product Dashboard**
+### Product Dashboard
 
 Target Vs Actuals, Product Scenarios, and Top Pick Product
 
